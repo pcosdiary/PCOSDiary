@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PCOSCure",
-    "slug": "PCOSCure",
+    "name": "IndianPCOSDiet",
+    "slug": "IndianPCOSDiet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
